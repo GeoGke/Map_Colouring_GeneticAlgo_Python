@@ -1,5 +1,6 @@
 # Map-colouring problem explanation
 The code implements a 
 
-![example1](/imgs/Simple_Example.png?raw=true)
+![](/imgs/Simple_Example.png?raw=true)
+>Simple Example 
 ![](/imgs/Advanced_Example.png?raw=true)
