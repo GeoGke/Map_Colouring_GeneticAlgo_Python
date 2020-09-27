@@ -1,6 +1,6 @@
 # Map-colouring problem explanation
 The code implements a 
-
+>Simple Example
 ![](/imgs/Simple_Example.png?raw=true)
->Simple Example 
+>Advanced Example 
 ![](/imgs/Advanced_Example.png?raw=true)
