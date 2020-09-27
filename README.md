@@ -1,4 +1,5 @@
 # Map-colouring problem explanation
-Th
+The code implements a 
 
-![TITLE](/imgs/Simple_Example.png?raw=true "title")
+![](/imgs/Simple_Example.png?raw=true)
+![](/imgs/Advanced_Example.png?raw=true)
