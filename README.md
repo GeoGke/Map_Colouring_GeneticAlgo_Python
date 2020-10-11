@@ -1,5 +1,7 @@
 # Map-colouring problem explanation - Under Construction
-The code implements a solution to an NP-complete problem(Map colouring) by using Genetic Algorithms. One example map is given below and there is a choice that new maps can be utilised by inputting them. The code needs to be transformed from python 2.7 to 3.7!
->Simple Example
+The code implements a solution to an (NP-complete) Map colouring problem by using Genetic Algorithms. 
+
+
+One example map is given below, but also the choice to create a different map is given.
 ![](/imgs/Simple_Example.png?raw=true)
 
